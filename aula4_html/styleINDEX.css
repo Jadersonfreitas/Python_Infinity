@@ -1,0 +1,31 @@
+h1{
+    color: cornflowerblue;
+    background-color: darkslategray;
+    font-family: Impact, Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    font-style: italic;
+    text-decoration: underline;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+p{
+    line-height: 1.5;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    text-align: justify;
+    color
+}
+
+div{
+    background-color: rgb(238, 108, 15);
+    width: 300px;
+    /* height: 300px; */
+}
+
+.diferentao{
+    color: darkblue;
+    font-weight: bold;
+}
